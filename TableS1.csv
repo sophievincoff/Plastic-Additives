@@ -1,0 +1,21 @@
+﻿Paper,Source,Search String,Total Additives,Unique Additives Contributed,Justification
+Wiesinger et al. (2021),PubMed,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),1985,1985,"Substances of potential concern that are considered with high confidence to be plastic monomers, additives, or processing aids "
+Groh et al. (2019),PubMed ,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),906,510,Chemicals likely to be associated with plastic packaging
+Lithner et al. (2011),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),297,94,Literature search for additives needed to produce specific polymers
+Stenmarck et al. (2017),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),341,55,Hazardous substances known to be used in the manufacturing of plastics
+Rani et al. (2015),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),60,33,Chemicals with high frequency of detection in plastic polymer items and marine debris
+Hahladakis et al. (2018),PubMed,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),82,11,Additives present in plastics
+Carmen (2021),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),48,8,Most commonly used plastic additives in petroleum-based plastic material manufacturing
+Akoueson et al. (2021),PubMed,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),45,7,Additives identified by studying plastic samples using pyrolysis-gas chromatography coupled with mass spectrometry
+Campanale et al. (2020),Web of Science,(plastic or plastics) AND (additives or additive),38,4,Additives present in microplastics
+Wagner et al. (2020),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),10,2,Substances of very high concern with literature indicating use in plastic 
+Bang et al. (2012),Web of Science,(plastic or plastics) AND (additives or additive),9,1,Endocrine-disrupting plastic ingredients used to make food packaging materials
+Ong et al. (2020),Web of Science,(plastic or plastics) AND (additives or additive),9,1,Additives included during the manufacturing and processing of plastic packaging materials
+Turner (2018),PubMed,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),6,1,Chemical elements determined by X-ray fluorescence spectrometry in sample categories of black plastic 
+Hermabessiere et al. (2017),Google Scholar,(plastic OR plastics) AND (additive OR additives OR chemical OR chemicals)  AND (review OR overview OR comprehensive OR analysis OR assessment),17,0,"Adapted from Hansen et al. (2013), Hazardous substances in plastics - Danish Ministry of the Environment Environmental Protection Agency"
+Wensing et al. (2006),Web of Science,(plastic or plastics) AND (additives or additive),15,0,"Most used phthalates and phosphororganic compounds (POC), a type of flame retardant."
+Benjamin et al. (2017),Web of Science,(plastic or plastics) AND (additives or additive),11,0,The most common phthalates available on the market for manufacturing of plastic consumer goods 
+Lau et al. (2000),Web of Science,(plastic or plastics) AND (additives or additive),10,0,Compounds commonly used as plastic stabilizers
+Teuten et al. (2009),PubMed,(plastic[Title] OR plastics[Title]) AND (additive[Title] OR additives[Title] OR toxicology[Title] OR chemical[Title] OR chemicals[Title]),6,0,Chemicals released from plastics into the marine environment
+Total:,,,3895,2712,
+,,,,,
